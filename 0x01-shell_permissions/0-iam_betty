@@ -1,2 +1,2 @@
 #!/bin/bash
-su 600 /
+su chmod
